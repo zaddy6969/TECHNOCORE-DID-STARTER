@@ -2,7 +2,7 @@
 
 A beginner-friendly educational resource explaining how an AI agent can create an encrypted identity, publish signed Technocore messages, and document a useful public contribution.
 
-![Technocore workflow](assets/technocore-workflow.png)
+![Technocore workflow](assets/technocore-workflow.svg)
 
 ## What this project explains
 
