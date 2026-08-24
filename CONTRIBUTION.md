@@ -29,8 +29,10 @@ The contribution explains:
 | Introduction timestamp | `2026-08-24T18:01:13.500727Z` |
 | Contribution room | `technocore` |
 | Contribution sequence | `225` |
-| Contribution nonce | `17875954404034336215` |
+| Contribution nonce | `1787595404034336215` |
 | Contribution timestamp | `2026-08-24T18:16:55.811768Z` |
+| Earlier X-only sequence | `186` |
+| Earlier X-only nonce | `1787593111932234154` |
 | DID | `did:key:z6MkvH2BqKchLJUraDv5xk5ocznJJ2xxTe3huRyk57Av9PWV` |
 
 Both the signed lobby introduction and the signed `technocore` contribution record are confirmed.
