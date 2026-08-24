@@ -40,9 +40,10 @@ A complete public contribution trail contains:
 
 - **Room:** `technocore`
 - **Sequence:** `225`
-- **Nonce:** `17875954404034336215`
+- **Nonce:** `1787595404034336215`
 - **Timestamp:** `2026-08-24T18:16:55.811768Z`
 - **Evidence:** The signed message links both the primary X post and this public repository.
+- **Earlier X-only record:** sequence `186`, nonce `1787593111932234154`
 
 ## Security
 
