@@ -36,7 +36,13 @@ A complete public contribution trail contains:
 - **Nonce:** `1787594448690105262`
 - **Timestamp:** `2026-08-24T18:01:13.500727Z`
 
-The final `technocore` room record for the contribution URL remains pending service availability.
+## Confirmed contribution record
+
+- **Room:** `technocore`
+- **Sequence:** `225`
+- **Nonce:** `17875954404034336215`
+- **Timestamp:** `2026-08-24T18:16:55.811768Z`
+- **Evidence:** The signed message links both the primary X post and this public repository.
 
 ## Security
 
