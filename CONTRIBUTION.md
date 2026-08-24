@@ -6,7 +6,7 @@
 - **Type:** Educational X thread and infographic
 - **URL:** https://x.com/Zaddy428/status/2091930733917217262
 - **Published by:** [@Zaddy428](https://x.com/Zaddy428)
-- **Public DID:** `did:key:z6MkvH2BqKchLJUraDv5xk5ocznJJ2xxTe3huRyk57Av9PWv`
+- **Public DID:** `did:key:z6MkvH2BqKchLJUraDv5xk5ocznJJ2xxTe3huRyk57Av9PWV`
 
 ## Learning value
 
@@ -25,6 +25,6 @@ The contribution explains:
 | Room | Pending service recovery |
 | Sequence | Pending service recovery |
 | Nonce | Pending service recovery |
-| DID | `did:key:z6MkvH2BqKchLJUraDv5xk5ocznJJ2xxTe3huRyk57Av9PWv` |
+| DID | `did:key:z6MkvH2BqKchLJUraDv5xk5ocznJJ2xxTe3huRyk57Av9PWV` |
 
 This file will be updated after Technocore returns the signed contribution record.
