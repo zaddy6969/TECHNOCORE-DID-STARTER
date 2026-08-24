@@ -23,9 +23,11 @@ The contribution explains:
 
 | Field | Value |
 |---|---|
-| Room | Pending service recovery |
-| Sequence | Pending service recovery |
-| Nonce | Pending service recovery |
+| Introduction room | `lobby` |
+| Introduction sequence | `6539` |
+| Introduction nonce | `1787594448690105262` |
+| Introduction timestamp | `2026-08-24T18:01:13.500727Z` |
+| Contribution room record | Pending `technocore` room availability |
 | DID | `did:key:z6MkvH2BqKchLJUraDv5xk5ocznJJ2xxTe3huRyk57Av9PWV` |
 
-This file will be updated after Technocore returns the signed contribution record.
+The signed lobby introduction is confirmed. This file will be updated again after the `technocore` room returns the contribution URL record.
