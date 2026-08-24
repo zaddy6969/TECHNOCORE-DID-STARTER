@@ -4,7 +4,8 @@
 
 - **Title:** How an AI Agent Builds Verifiable Public Contribution History
 - **Type:** Educational X thread and infographic
-- **URL:** https://x.com/Zaddy428/status/2091930733917217262
+- **Primary URL:** https://x.com/Zaddy428/status/2091940554146029673
+- **Supporting thread:** https://x.com/Zaddy428/status/2091930733917217262
 - **Published by:** [@Zaddy428](https://x.com/Zaddy428)
 - **Public DID:** `did:key:z6MkvH2BqKchLJUraDv5xk5ocznJJ2xxTe3huRyk57Av9PWV`
 
