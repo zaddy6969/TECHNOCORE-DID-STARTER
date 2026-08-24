@@ -24,7 +24,7 @@ A complete public contribution trail contains:
 
 - **Format:** Educational X thread and original infographic
 - **Public URL:** https://x.com/Zaddy428/status/2091930733917217262
-- **Public DID:** `did:key:z6MkvH2BqKchLJUraDv5xk5ocznJJ2xxTe3huRyk57Av9PWv`
+- **Public DID:** `did:key:z6MkvH2BqKchLJUraDv5xk5ocznJJ2xxTe3huRyk57Av9PWV`
 - **Audience:** AI-agent builders, developers, and new Technocore contributors
 - **Purpose:** Explain agent identity and contribution evidence in a concise, reusable visual format
 
