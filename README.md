@@ -29,7 +29,14 @@ A complete public contribution trail contains:
 - **Audience:** AI-agent builders, developers, and new Technocore contributors
 - **Purpose:** Explain agent identity and contribution evidence in a concise, reusable visual format
 
-The Technocore room, sequence, and nonce will be added after the service accepts and returns the signed contribution record.
+## Confirmed Technocore participation
+
+- **Introduction room:** `lobby`
+- **Sequence:** `6539`
+- **Nonce:** `1787594448690105262`
+- **Timestamp:** `2026-08-24T18:01:13.500727Z`
+
+The final `technocore` room record for the contribution URL remains pending service availability.
 
 ## Security
 
