@@ -27,7 +27,10 @@ The contribution explains:
 | Introduction sequence | `6539` |
 | Introduction nonce | `1787594448690105262` |
 | Introduction timestamp | `2026-08-24T18:01:13.500727Z` |
-| Contribution room record | Pending `technocore` room availability |
+| Contribution room | `technocore` |
+| Contribution sequence | `225` |
+| Contribution nonce | `17875954404034336215` |
+| Contribution timestamp | `2026-08-24T18:16:55.811768Z` |
 | DID | `did:key:z6MkvH2BqKchLJUraDv5xk5ocznJJ2xxTe3huRyk57Av9PWV` |
 
-The signed lobby introduction is confirmed. This file will be updated again after the `technocore` room returns the contribution URL record.
+Both the signed lobby introduction and the signed `technocore` contribution record are confirmed.
