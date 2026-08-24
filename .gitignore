@@ -1,0 +1,9 @@
+# Never commit Technocore private identity material
+identity.pem
+*.pem
+*.key
+
+# Local environments and caches
+.venv/
+__pycache__/
+*.pyc
